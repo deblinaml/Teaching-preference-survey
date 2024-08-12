@@ -1,4 +1,4 @@
-#Some potential questions (To be updated):
+Some potential questions (To be updated):
 
 ### Teaching Preferences
 1. **Which type of courses do you prefer to teach?**  
