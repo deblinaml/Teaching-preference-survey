@@ -1,5 +1,6 @@
-Some potential questions (To be updated):
-
+Some potential questions (To be updated): 
+**Can take 15- 20 minutes to complete.
+**
 ### Teaching Preferences
 1. **Which type of courses do you prefer to teach?**  
    - Undergraduate  
@@ -26,61 +27,86 @@ Some potential questions (To be updated):
    - Afternoon  
    - No preference
 
-5. **How many hours of teaching per week do you prefer?**  
-   
+5. **How many hours of teaching per week do you prefer?**
+
+6. **Do you prefer to teach:**
+   - In both terms
+   - All in a single term
+   - No preference
+
+7. **Do you prefer teaching:**
+   - Online
+   - In person
+   - No preference
+
+8. **Do you prefer:**
+   - Delivering content
+   - Supervision
+   - No preference
+
+9. **Would you prefer to be the sole lecturer on a unit or share the role with another academic?**
+   - Sole lecturer
+   - Share the role
+   - No preference
 
 ### Course Development and Design
-6. **Would you like to be involved in course design or curriculum development?**  
-   - Yes  
-   - No  
-   - Maybe, depending on the course
+10. **Would you like to be involved in course design or curriculum development?**  
+    - Yes  
+    - No  
+    - Maybe, depending on the course
 
-7. **What level of involvement do you prefer in course development?**  
-   - Full course design  
-   - Module/Unit design  
-   - Providing input on existing courses  
-   - No involvement
+11. **What level of involvement do you prefer in course development?**  
+    - Full course design  
+    - Module/Unit design  
+    - Providing input on existing courses  
+    - No involvement
 
-8. **Are there any specific subjects or topics you would like to teach or develop a course on?**  
-   - [Open text response]
+12. **Are there any specific subjects or topics you would like to teach or develop a course on which is not currently offered in the CS department?**  
+    - [Open text response]
+
+13. **Please list the CS courses you feel confident teaching as a subject expert.**  
+    - [Open text response]
+
+14. **Please list the CS courses you would feel comfortable teaching.**  
+    - [Open text response]
 
 ### Assessment and Feedback
-9. **Which assessment methods do you prefer to use?**  
-   - Exams  
-   - Essays  
-   - Projects  
-   - Presentations  
-   - Continuous assessment  
-   - Peer assessment  
-   - Other (please specify)
+15. **Which assessment methods do you prefer to use?**  
+    - Exams  
+    - Essays  
+    - Projects  
+    - Presentations  
+    - Continuous assessment  
+    - Peer assessment  
+    - Other (please specify)
 
-10. **How often do you prefer to provide feedback to students?**  
+16. **How often do you prefer to provide feedback to students?**  
     - Weekly  
     - Bi-weekly  
     - Monthly  
     - At the end of the term  
     - No preference
 
-11. **Would you like to use more formative assessments in your teaching?**  
+17. **Would you like to use more formative assessments in your teaching?**  
     - Yes  
     - No  
     - Maybe
 
 ### Support and Resources
-12. **What additional resources or support would enhance your teaching experience?**  
+18. **What additional resources or support would enhance your teaching experience?**  
     - Professional development workshops  
-    - Teaching assistants  (specify approx. number)
+    - Teaching assistants  (specify approx. number)  
     - Collaborative teaching opportunities  
     - Smaller class sizes  
     - Other (please specify)
 
-13. **Do you feel you have sufficient resources to support your teaching activities?**  
+19. **Do you feel you have sufficient resources to support your teaching activities?**  
     - Yes  
     - No (please specify what’s lacking)  
     - Unsure
 
 ### Teaching Challenges
-14. **What challenges do you currently face in your teaching?**  
+20. **What challenges do you currently face in your teaching?**  
     - Time management  
     - Student engagement  
     - Assessment and grading  
@@ -89,12 +115,12 @@ Some potential questions (To be updated):
     - Balancing research and teaching  
     - Other (please specify)
 
-15. **How can the university better support you in overcoming these challenges?**  
+21. **How can the university better support you in overcoming these challenges?**  
     - [Open text response]
 
 ### General Feedback
-16. **Are there any aspects of your current teaching assignment that you would like to change?**  
+22. **Are there any aspects of your current teaching assignment that you would like to change?**  
     - [Open text response]
 
-17. **What do you believe could improve the overall teaching and learning environment at the university?**  
+23. **What do you believe could improve the overall teaching and learning environment at the university?**  
     - [Open text response]
